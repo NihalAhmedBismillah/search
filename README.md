@@ -1,2 +1,2 @@
 # search
-search web pages and content
+This is mysql Sequelize test application.
